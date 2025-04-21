@@ -20,7 +20,7 @@ RevwAI is an intelligent PR reviewer that analyzes code changes, leaves insightf
 2. Install the required dependencies:
 3. Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/yourusername/revwai.git
+git clone https://github.com/sreekanthpogula/revwai.git
 cd revwai
 ```
 4. Install the required dependencies:
