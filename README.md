@@ -21,3 +21,5 @@ RevwAI is an intelligent PR reviewer that analyzes code changes, leaves insightf
 git clone https://github.com/yourusername/revwai.git
 cd revwai
 pip install -r requirements.txt
+python pr_analyzer.py
+```
