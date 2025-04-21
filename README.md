@@ -2,7 +2,7 @@
 
 **Smarter Code Reviews. Powered by AI.**
 
-RevwAI is an intelligent PR reviewer that analyzes code changes, leaves insightful feedback, and helps teams maintain high-quality codebases — automatically.
+RevwAI is an intelligent PR reviewer that analyzes code changes, leaves insightful feedback, and helps teams maintain high-quality codebases — automatically using Model Context Protocol (MCP).
 
 ---
 
